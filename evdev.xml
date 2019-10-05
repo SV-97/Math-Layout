@@ -1,0 +1,19 @@
+<layout>
+  <configItem>
+    <name>gm</name>
+    
+    <shortDescription>gm</shortDescription>
+    <description>Math</description>
+    <languageList>
+      <iso639Id>gre</iso639Id>
+    </languageList>
+  </configItem>
+  <variantList>
+    <variant>
+      <configItem>
+        <name>basic</name>
+        <description>Mathematik</description>
+      </configItem>
+    </variant>
+  </variantList>
+</layout>
