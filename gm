@@ -33,7 +33,7 @@ xkb_symbols "basic" {
     key <AB03> { [             Greek_psi,      Greek_PSI, U2102 ] }; // ψ Ψ ℂ
     key <AB04> { [           Greek_omega,    Greek_OMEGA ] }; // ω Ω
     key <AB05> { [            Greek_beta,     Greek_BETA ] }; // β Β
-    key <AB06> { [              Greek_nu,       Greek_NU, U211 ] }; // ν Ν ℕ
+    key <AB06> { [              Greek_nu,       Greek_NU, U2115 ] }; // ν Ν ℕ
     key <AB07> { [              Greek_mu,       Greek_MU ] }; // μ Μ
     
     key <LSGT> { [                  less,        greater, U2264, U2265 ] }; // <  > ≤ ≥
